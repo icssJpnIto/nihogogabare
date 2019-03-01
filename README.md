@@ -3,7 +3,7 @@
 设计书实用日语学习
 
 ### Lesson 1
-* [实用日语学习kick off](lesson-20190222.md) 
+* [kick off](lesson-20190222.md) 
 
 
 ### Lesson 2
